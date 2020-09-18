@@ -1,3 +1,3 @@
-About:Git Search with React + github api
+# About:Git Search with React + github api
 
 
